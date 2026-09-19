@@ -5,12 +5,12 @@
   "isForceUpdate": false,
   "android": {
     "url": "https://github.com/samaelleo/vpnchi-releases/releases/latest/download/VPNChi-latest.apk",
-    "fileName": "VPNChi-v1.1.0-b15.apk",
+    "fileName": "VPNChi-v1.1.0-b16.apk",
     "size": "32 MB"
   },
   "windows": {
     "url": "https://github.com/samaelleo/vpnchi-releases/releases/latest/download/VPNChi-latest-Setup.exe",
-    "fileName": "VPNChi-v1.1.0-b15-Setup.exe",
+    "fileName": "VPNChi-v1.1.0-b16-Setup.exe",
     "size": "55 MB"
   }
 }
