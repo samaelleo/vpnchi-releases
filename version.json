@@ -1,16 +1,16 @@
 {
-  "latestVersion": "1.2.0-b20",
-  "versionCode": 120020,
-  "releaseNotes": "• نسخه جدید 1.2.0-b20 با قابلیت بررسی و دانلود خودکار آپدیت داخلی\n• بهینه‌سازی سرعت و پایداری اتصال\n• رفع باگ‌ها و ارتقای عملکرد",
+  "latestVersion": "1.2.0-b21",
+  "versionCode": 120021,
+  "releaseNotes": "• نسخه جدید 1.2.0-b21 با قابلیت بررسی و دانلود خودکار آپدیت داخلی\n• بهینه‌سازی سرعت و پایداری اتصال\n• رفع باگ‌ها و ارتقای عملکرد",
   "isForceUpdate": false,
   "android": {
     "url": "https://github.com/samaelleo/vpnchi-releases/releases/latest/download/VPNChi-latest.apk",
-    "fileName": "VPNChi-v1.2.0-b20.apk",
+    "fileName": "VPNChi-v1.2.0-b21.apk",
     "size": "32 MB"
   },
   "windows": {
     "url": "https://github.com/samaelleo/vpnchi-releases/releases/latest/download/VPNChi-latest-Setup.exe",
-    "fileName": "VPNChi-v1.2.0-b20-Setup.exe",
+    "fileName": "VPNChi-v1.2.0-b21-Setup.exe",
     "size": "55 MB"
   }
 }
